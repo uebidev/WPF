@@ -1,0 +1,4 @@
+C:\Users\Dev-04\source\repos\BeautifulCrud\Domain.Controls\obj\Debug\net7.0\Domain.Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev-04\source\repos\BeautifulCrud\Domain.Controls\obj\Debug\net7.0\Domain.Controls.AssemblyInfoInputs.cache
+C:\Users\Dev-04\source\repos\BeautifulCrud\Domain.Controls\obj\Debug\net7.0\Domain.Controls.AssemblyInfo.cs
+C:\Users\Dev-04\source\repos\BeautifulCrud\Domain.Controls\obj\Debug\net7.0\Domain.Controls.csproj.CoreCompileInputs.cache
